@@ -17,8 +17,8 @@ Foco no desenvolvimento de APIs. Conhecimento em ferramentas e tecnologias como 
 
 
 ## 🎓 **Formação acadêmica**
-- MBA em **Gestão da Qualidade de Software** na [UNIVITORIA](https://univitoriaead.com.br/) (em andamento).
 - MBA em **Gestão de Projetos em T.I.** na [UNIVITORIA](https://univitoriaead.com.br/) (em andamento).
+- MBA em **Gestão da Qualidade de Software** na [UNIVITORIA](https://univitoriaead.com.br/).
 - Especialização em **Desenvolvimento Orientado a Objetos em Java** na [UNICIV](https://uniciv.com.br).
 - Especialização em **Tecnologias para Aplicações Web** na [UNOPAR](https://unopar.com.br/)
 -  Graduação em **Administração com Habilitação em Análise de Sistemas** na [Fundação Visconde de Cairu](https://cairu.br/)
