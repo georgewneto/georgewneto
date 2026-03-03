@@ -5,7 +5,7 @@
 Foco no desenvolvimento de APIs. Conhecimento em ferramentas e tecnologias como Git (Github, Bitbucket, Azure DevOps), Docker, utilização e configuração de servidores Linux. Conhecimento na plataforma **ArcGIS** e ***soluções GIS***.
 
 ## **Tech Stack**
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,php,laravel,java,spring,maven,dotnet,azure,python,flask,ts,react,angular,nodejs,express,git,github,docker,mysql,postgresql,sqlite,mongodb,visualstudio,vscode,linux,debian,ubuntu,nginx,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,java,spring,dotnet,python,flask,ts,react,angular,nodejs,docker,mysql,postgresql,mongodb,linux,debian,ubuntu)](https://skillicons.dev)
 
 
 ## 🏢 **Experiência profissional**
@@ -17,7 +17,7 @@ Foco no desenvolvimento de APIs. Conhecimento em ferramentas e tecnologias como 
 
 
 ## 🎓 **Formação acadêmica**
-- MBA em **Gestão de Projetos em T.I.** na [UNIVITORIA](https://univitoriaead.com.br/) (em andamento).
+- MBA em **Gestão de Projetos em T.I.** na [UNIVITORIA](https://univitoriaead.com.br/).
 - MBA em **Gestão da Qualidade de Software** na [UNIVITORIA](https://univitoriaead.com.br/).
 - Especialização em **Desenvolvimento Orientado a Objetos em Java** na [UNICIV](https://uniciv.com.br).
 - Especialização em **Tecnologias para Aplicações Web** na [UNOPAR](https://unopar.com.br/)
