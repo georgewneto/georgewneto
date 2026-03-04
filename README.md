@@ -1,8 +1,10 @@
 ### Olá, eu sou **George W. Neto** (georgewneto) 👋
 
-**Analista de sistemas** com experiência em diversas linguagens de programação como: **PHP** (CodeIgniter, Laravel, WordPress), **Java** (Spring), **C# / ASP.NET** (.NET Framework e .NET Core), **Python** (Flask), **JavaScript** (React,  Angular, Node), e **bancos de dados** (MS SQL Server, PostgreSQL, MySQL, MongoDb).
+**Engenheiro de Software Sênior Full Stack** com mais de 20 anos de experiência no ciclo completo de desenvolvimento de sistemas e modernização de aplicações corporativas. Atuação sólida em múltiplos ecossistemas, com forte domínio em **.NET (C#, .NET Core, ASP.NET MVC/Web Forms)**, **PHP (Laravel, WordPress, CodeIgniter, Doctrine)** e **Java (Spring Boot, Spring Framework, Hibernate/JPA)**.
 
-Foco no desenvolvimento de APIs. Conhecimento em ferramentas e tecnologias como Git (Github, Bitbucket, Azure DevOps), Docker, utilização e configuração de servidores Linux. Conhecimento na plataforma **ArcGIS** e ***soluções GIS***.
+Especialista na migração de arquiteturas legadas para soluções modernas baseadas em APIs RESTful e microsserviços, com foco em escalabilidade, performance e boas práticas de arquitetura orientada a objetos. Experiência consolidada na integração de backends robustos com frontends modernos utilizando React e Angular.
+
+Sólido conhecimento em bancos de dados relacionais (SQL Server, PostgreSQL, MySQL, Oracle), NOSQL (Redis, MongoDb), modelagem e otimização de consultas, além de experiência em ambientes Linux, gestão de servidores e processos de deploy.
 
 ## **Tech Stack**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,java,spring,dotnet,python,flask,ts,react,angular,nodejs,docker,mysql,postgresql,mongodb,linux,debian,ubuntu)](https://skillicons.dev)
